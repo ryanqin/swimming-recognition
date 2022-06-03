@@ -422,7 +422,7 @@ a:focus {
 }
 
 .youtube-video-iframe {
-	width: 90%;
+	width: 70%;
 	height: 75vh;
 	border: 10px solid #000000;
 }
@@ -855,6 +855,12 @@ PAGE BANNER
 #banner-4 {
 	position: relative;
 	background: url("../images1/surprisedbaby.jpeg") no-repeat;
+	background-size: cover;
+}
+
+#banner-5 {
+	position: relative;
+	background: url("../images1/swimming_bg.jpeg") no-repeat;
 	background-size: cover;
 }
 
